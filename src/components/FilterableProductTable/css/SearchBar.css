@@ -1,0 +1,33 @@
+
+
+.search
+{
+    display: flex;
+    border: 1px solid ;
+}
+.searchBar__checkbox
+{
+    cursor: pointer;
+}
+.valid
+{
+    border: none;
+    background-color: white;
+    font-size: 1.5rem;
+    outline: none;
+    cursor: pointer;
+    flex-grow: 4;
+}
+.SearchBar__search
+{
+    font-size: 1.5rem;
+    border: none;
+    outline: none;
+    flex-grow: 3;
+    /* flex: 1 1; */
+}
+.valid:hover
+{
+
+    background-color: rosybrown;
+}
